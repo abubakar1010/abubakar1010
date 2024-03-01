@@ -1,4 +1,4 @@
-<h1 align="center">As-Salamu Alaykum (Peace be upon you), I'm Muhammad Abu Bakar</h1>
+<h1 align="center">As-Salamu Alaykum (Peace be upon you) </br> I'm Muhammad Abu Bakar</h1>
 <h3 align="center">A passionate tec enthusiast from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar1010&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar1010" /> </p>
