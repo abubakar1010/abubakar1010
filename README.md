@@ -1,10 +1,23 @@
-# 👋 Hi there
+<h1 align="center">As-salamu alaykum, I'm Muhammad Abu Bakar</h1>
+<h3 align="center">a passionate software developer and tech enthusiast.</h3>
 
-I'm Muhammad Abu Bakar, a passionate software developer and tech enthusiast.  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar1010&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar1010" /> </p>
+
+- 💬 Ask me about **JavaScript, react and redux**
+
+- 📫 How to reach me **abubakar850772@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/abubakar1010)
+</p>
+
+
 
 > “Do, or do not. There is no “try” — Yoda
+> “If you are not the most hard-working person in this room, then someone else is”
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
 ### Frontend Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=E34F26&labelColor=FFFFFF) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=1572B6&labelColor=FFFFFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=06B6D4&labelColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=F7DF1E&labelColor=FFFFFF) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=61DAFB&labelColor=FFFFFF) ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=007FFF&labelColor=FFFFFF) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=3178C6&labelColor=FFFFFF) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=000000&labelColor=FFFFFF) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=764ABC&labelColor=FFFFFF)  
