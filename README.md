@@ -3,18 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar1010&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar1010" /> </p>
 
-- 💬 Ask me about **JavaScript, react and redux**
-
 - 📫 How to reach me **abubakar850772@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/abubakar1010)
-</p>
 
 
 
 > “Do, or do not. There is no “try” — Yoda
+<br />
 > “If you are not the most hard-working person in this room, then someone else is”
 
 # 🚀 Tech Stack
