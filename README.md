@@ -6,5 +6,33 @@ I'm Muhammad Abu Bakar, a passionate software developer and tech enthusiast.  </
 
 # 💻 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+### Frontend Technologies
+![HTML](https://img.shields.io/badge/HTML-FFFFFF?logo=html5&logoColor=E34F26)  
+![CSS](https://img.shields.io/badge/CSS-FFFFFF?logo=css3&logoColor=1572B6)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?logo=tailwindcss&logoColor=06B6D4)  
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?logo=javascript&logoColor=F7DF1E)  
+![React](https://img.shields.io/badge/React-FFFFFF?logo=react&logoColor=61DAFB)  
+![MUI](https://img.shields.io/badge/MUI-FFFFFF?logo=mui&logoColor=007FFF)  
+![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?logo=typescript&logoColor=3178C6)  
+![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?logo=nextdotjs&logoColor=000000)  
+
+### Backend Technologies
+![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?logo=nodedotjs&logoColor=8CC84B)  
+![Express](https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=000000)  
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?logo=mongodb&logoColor=47A248)  
+![Mongoose](https://img.shields.io/badge/Mongoose-FFFFFF?logo=mongoose&logoColor=880000)  
+![Firebase](https://img.shields.io/badge/Firebase-FFFFFF?logo=firebase&logoColor=FFCA28)  
+![Appwrite](https://img.shields.io/badge/Appwrite-FFFFFF?logo=appwrite&logoColor=2E5BFF)  
+![Nodemon](https://img.shields.io/badge/Nodemon-FFFFFF?logo=nodemon&logoColor=76D04B)  
+
+### State Management
+![Redux](https://img.shields.io/badge/Redux-FFFFFF?logo=redux&logoColor=764ABC)  
+
+### API Development
+![Postman](https://img.shields.io/badge/Postman-FFFFFF?logo=postman&logoColor=FF6C37)  
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-FFFFFF?logo=c&logoColor=A8B9CC)  
+![C++](https://img.shields.io/badge/C++-FFFFFF?logo=c%2B%2B&logoColor=00599C)  
+
 
