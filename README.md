@@ -17,8 +17,6 @@ I'm Muhammad Abu Bakar, a passionate software developer and tech enthusiast.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF)](https://linkedin.com/in/abubakar1010)
 
 
-![Muhammad Abu Bakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakar1010&show_icons=true&theme=radical)
-
 
 
 # 🚀 Tech Stack
