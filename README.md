@@ -1,11 +1,15 @@
- <img alt="Coding" width="100%" height="100%" src="https://github.com/abubakar1010/abubakar1010/blob/main/miles-to-go-before-sleep.jpg">
+ <img alt="Coding" width="100%" src="https://github.com/abubakar1010/abubakar1010/blob/main/miles-to-go-before-sleep.jpg">
  
 # As-salamu alaykum
 
 I'm Muhammad Abu Bakar, a passionate software developer and tech enthusiast.  
 
-  
-💡 As technology evolves unpredictably and has a profound impact on our lives, I feel compelled to master it. This drive led me to explore and learn various technologies related to web development. I have a solid understanding of JavaScript, React, Express, MongoDB, TypeScript, Mongoose, and more. Now, I am eager to gain real-world experience and contribute to solving the challenges we face.
+✨As technology evolves unpredictably and profoundly shapes our lives, I am driven to stay ahead by mastering it. This passion has guided me to explore and excel in web development technologies.
+
+💡I have a strong foundation in JavaScript, React, TypeScript, Express, MongoDB, Mongoose, and other modern tools and frameworks. Focusing on building scalable, efficient, and user-friendly applications, I constantly seek opportunities to apply my knowledge to solving real-world challenges.
+
+I am eager to gain hands-on experience and contribute to impactful projects that address the needs of today and tomorrow. Let's collaborate to build something extraordinary!
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar1010&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar1010" /> </p>
 
