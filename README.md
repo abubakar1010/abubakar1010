@@ -26,6 +26,8 @@ I am eager to gain hands-on experience and contribute to impactful projects that
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF)](https://linkedin.com/in/abubakar1010)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abubakar1010)](https://git.io/streak-stats)
+
 
 
 # 🚀 Tech Stack
