@@ -19,6 +19,8 @@ I am eager to gain hands-on experience and contribute to impactful projects that
 
 > “If you are not the most hard-working person in this room, then someone else is”
 
+> Those who cannot remember the past are condemned to repeat it.
+
 
 <h3 align="left">Connect with me:</h3>
 
